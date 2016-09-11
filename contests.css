@@ -1,0 +1,88 @@
+/* Note to students: Some properties are given to you to fill out,
+others you can modify as they stand, and if you have time,
+there are definitely some properties you should add!*/
+
+    html {
+      height: 100%;
+    }
+    body {
+       width: 100%;
+       height: 100%;
+    }
+    p{
+      width: 600px;
+      float: none;
+      clear: both;
+    }
+    header {
+        background-color: #002244;
+        padding: 1px;
+        border: 4px solid #69BE28;
+        font-size: ;
+        display: block;
+    }
+    h1 {
+      color: #A5ACAF;
+      text-align: center;
+    }
+    nav {
+        float: left;
+    }
+    nav ul {
+        padding: ;
+        float: left;
+        border-bottom: ;
+        list-style-type: none;
+    }
+    nav li {
+        float: left;
+    }
+.radio {
+  float:left;
+  clear: both;
+}
+.ticket {
+  max-width: 300px;
+  max-height: 100px;
+  float: left;
+  clear: both;
+}
+.shell {
+max-width: 100px;
+max-height: 100px;
+float: left;
+clear: both;
+}
+    nav li a {
+        display: block;
+        height: 25px;
+        padding: 12px 18px 8px 18px;
+        vertical-align: middle;
+    }
+    a {
+        color: ;
+    }
+    /*section {
+        width: 73%;
+        display: inline-block;
+        float: left;
+    }*/
+
+    }
+    /*aside {
+        width: 17%;
+        display: inline-block;
+        background-color:;
+        padding:;
+        min-height: 100%;
+    }
+    aside ul {
+        list-style-type: none;
+    }
+    footer {
+        width: 790px;
+        background-color:;
+        color:;
+        clear: both;
+        display: block;
+    }*/
